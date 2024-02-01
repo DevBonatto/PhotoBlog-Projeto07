@@ -25,7 +25,7 @@ Proposta:
 </p>
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Projeto 06, online](https://devbonatto.github.io/Grid-Projeto06/)
+- [Acesse o resultado finalizado do Projeto 06, online](https://devbonatto.github.io/PhotoBlog-Projeto07/)
 
 
 ## 🔖 Layout
