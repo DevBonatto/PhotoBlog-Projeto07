@@ -84,7 +84,7 @@ header form {
 }
 
 .input-wrapper input {
-  width: 100%;
+  width: fit-content;
   padding: 1.6rem;
 
   background-color: var(--color-base-gray-100);
@@ -207,5 +207,19 @@ footer {
 
   50% {
     transform: scale(1.2);
+  }
+}
+
+@media (max-width: 830px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+
+  main {
+    overflow-y: initial;
+  }
+
+  .item img:hover {
+    transform: scale(1) rotate(-2deg);
   }
 }
